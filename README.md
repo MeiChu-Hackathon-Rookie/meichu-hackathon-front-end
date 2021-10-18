@@ -6,7 +6,7 @@
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:8000
 $ yarn dev
 
 # build for production and launch server
@@ -19,9 +19,27 @@ $ yarn generate
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
-## Special Directories
+## Basic Envronment
 
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
+### `UI library`
+
+We Use [Element UI](https://element.eleme.io/#/en-US) as our UI library.
+
+Component we used:
+* [Layout](https://element.eleme.io/#/en-US/component/layout)
+* [Upload](https://element.eleme.io/#/en-US/component/upload)
+* [Alert](https://element.eleme.io/#/en-US/component/alert)
+* and more
+
+### `Git flow (Optional)`
+* Master
+  * dev
+    * feat
+    * fix
+    * refactor
+    * doc
+
+## File Structure
 
 ### `assets`
 
