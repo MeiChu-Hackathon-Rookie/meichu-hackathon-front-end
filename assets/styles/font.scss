@@ -1,14 +1,14 @@
-h1 {
+.h1 {
   font-size: 24px;
   font-weight: 700;
 }
 
-h2 {
+.h2 {
   font-size: 20px;
   font-weight: 700;
 }
 
-h3 {
+.h3 {
   font-size: 18px;
   font-weight: 400;
 }
@@ -16,4 +16,20 @@ h3 {
 .regular {
   font-size: 16px;
   font-weight: 300;
+}
+
+.white {
+  color: $white;
+}
+
+.dark-blue {
+  color: $dark-blue;
+}
+
+.light-blue {
+  color: $light-blue;
+}
+
+.gray {
+  color: $gray;
 }

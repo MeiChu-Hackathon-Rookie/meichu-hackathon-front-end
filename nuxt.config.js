@@ -22,7 +22,8 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     'element-ui/lib/theme-chalk/index.css',
-    '@assets/styles/global.scss',
+    '@/assets/styles/global.scss',
+    '@/assets/styles/font.scss',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
