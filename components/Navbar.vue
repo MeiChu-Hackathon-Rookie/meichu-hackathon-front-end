@@ -17,7 +17,7 @@
           Video Player
         </li>
       </nuxt-link>
-      <nuxt-link to="/Upload">
+      <nuxt-link to="/upload">
         <li class="nav-item h3 gray">  
           <i class="el-icon-upload"></i>
           Upload

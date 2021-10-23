@@ -1,8 +1,7 @@
 <template>
-  <div>
+  <div class="container">
     <Navbar />
     <Nuxt />
-    <Footer />
   </div>
 </template>
 
@@ -11,3 +10,10 @@
     
   }
 </script>
+
+<style lang="scss" scoped>
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+</style>
