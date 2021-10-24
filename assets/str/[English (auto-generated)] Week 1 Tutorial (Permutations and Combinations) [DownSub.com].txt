@@ -1,0 +1,1340 @@
+hello
+
+and can you hear me
+
+okay excellent sorry for the delay so
+
+there was some
+
+connection problem
+
+okay
+
+so if you so let me double check okay so
+
+welcome all for coming
+
+okay let me double check so if you can
+
+hear me clearly could you please give me
+
+some response could you please type a
+
+one
+
+okay thanks very much okay
+
+so
+
+so so for today so we will talk about
+
+something that is related to the
+
+content of
+
+our first week's and lectures
+
+thank you very much okay
+
+so we have tried to receive your
+
+questions during the weekend but perhaps
+
+uh it's just the beginning of the
+
+semester so you don't have a lot of
+
+questions so i've prepared something for
+
+you so it should be a very quick uh
+
+tutorial today
+
+and then if you have any questions there
+
+please don't hesitate to ask me
+
+okay so one key thing that we have
+
+talked about
+
+in the last class is something called
+
+combinatorial arguments
+
+so combinatorial arguments are something
+
+that is
+
+is a way of proving identities
+
+so
+
+i checked the wikipedia so mainly there
+
+are two different categories of
+
+combinatorial arguments
+
+so the first one is called double
+
+counting
+
+so the double counting technique is we
+
+try to count
+
+the same quantity a value which talks
+
+about the number of ways of doing things
+
+we count it using two different methods
+
+so in that case we will have two views
+
+of the same quantity so that we can we
+
+can get our desired result
+
+and the other type of combinatorial
+
+argument is the so-called bijective
+
+proof
+
+and for this one it is used to show that
+
+two sets have the same number of items
+
+so by
+
+finding a one-to-one correspondence
+
+between the items of the two sets we
+
+will see that the two sets will have the
+
+same number of items but this is not the
+
+focus of today so we will talk about
+
+double counting
+
+and then we will look at a couple of
+
+examples today
+
+so this is
+
+the easiest example probably
+
+so in this example we want to show that
+
+n choose k the value of n choose k
+
+is always the same as the value of n
+
+choose n minus k
+
+now remember when we are doing
+
+combinatorial arguments we do not have
+
+any access to the
+
+exact
+
+formula for n choose k so we don't know
+
+entries k is equal to something like
+
+n factorial divided by k factorial and n
+
+minus k factorial we don't know this
+
+we just want to argue
+
+the meaning from the physical meaning of
+
+each of the terms
+
+and then we want to establish the
+
+equivalence of the both sides okay
+
+so first of all n choose k is what n
+
+choose k is the number of ways of
+
+selecting k items from a total of n
+
+items
+
+so
+
+so
+
+by viewing of selection of k items to
+
+keep
+
+so it must be the same as
+
+we are so when we try to keep k items so
+
+it must mean that we are throwing away n
+
+minus k items
+
+so each time we keep a particular
+
+set of k items we are actually throwing
+
+the complements
+
+n minus k items there
+
+so the number of ways of selection of k
+
+items must be done the same as the
+
+number of ways of
+
+discarding n minus k items so that's why
+
+we have n choose k
+
+is equal to n choose n minus k so this
+
+is quite easy right
+
+now let's take a look of this one
+
+oh this is something that i just come up
+
+now so so please help me to double check
+
+whether this is correct
+
+so here we are saying that n plus one
+
+the permutation the number of
+
+permutations of
+
+uh p n plus one r
+
+so this is like we have n plus one
+
+objects to select
+
+and then we want to select all of them
+
+and then make an arrangement so the
+
+number of ways of doing so
+
+is always the same as
+
+p n r plus r times
+
+p n r minus 1.
+
+so how do we interpret this result
+
+so first of all we will see that on the
+
+left hand side there is n plus one r and
+
+on the right hand side there is n r
+
+right
+
+so m plus one r and n r they are
+
+different by having one extra
+
+objects here that we can select
+
+so let's call it a special object
+
+okay
+
+so the number of ways of getting a
+
+permutation with the special objects
+
+that we can use
+
+so we can classify this into two
+
+different types
+
+one is
+
+we are going to use we are going to use
+
+the special object
+
+and then the other type is we are not
+
+going to use the special object
+
+okay so here n plus 1 means that we have
+
+n original object plus one new object
+
+that we can use okay
+
+so
+
+so the number of ways of not using the
+
+special object must be p and r right
+
+because we take that away we will not
+
+consider it
+
+so the number of ways of doing selection
+
+of our objects from the old objects and
+
+making an arrangement must be
+
+p and r
+
+okay for the other way
+
+the other way is
+
+so we must include the special objects
+
+so by including the special object so we
+
+will first decide
+
+in which location will the special
+
+objects be placed
+
+because in the end
+
+it is an r permutation there are
+
+positions that these special objects can
+
+be placed
+
+so there are choices that we can make to
+
+place a special object
+
+and then for the remaining r minus 1
+
+positions
+
+we will need to fill in
+
+r minus 1 objects from the old objects
+
+so the number of ways of doing so is p n
+
+r minus 1.
+
+now notice that
+
+again in the previous argument that we
+
+have just made
+
+we are not
+
+looking at any formula for p and r
+
+we are just arguing all the things based
+
+on the definition of the term p and r
+
+and then here we are using rule of
+
+products
+
+and the rule of thumb these basic rules
+
+to help us to understand why this
+
+equality must be correct
+
+okay so let's take a look of another
+
+example so so go home
+
+so
+
+if if you want to check your
+
+understanding go home and cover all the
+
+voices of this video and let's see if
+
+you can
+
+come up with the combinatorial ex proof
+
+by yourself
+
+now the next one is called the hockey
+
+stick identity
+
+so it is
+
+saying that
+
+ah
+
+there was something wrong here i'm sorry
+
+so
+
+let me see so
+
+so
+
+sorry there is a mistake here
+
+so it must be something like
+
+this is
+
+n minus 1
+
+sorry
+
+so every time here is n minus one okay
+
+sorry
+
+so let me go back again
+
+so it says that
+
+c n plus one
+
+m m plus one object
+
+choosing m object
+
+must be the same as the summation of the
+
+following terms
+
+the first one is n choose n minus 1
+
+and then the next one is n minus 1
+
+choose n minus 1
+
+and then the next one is n minus 2
+
+choose n minus 1 and so on and so forth
+
+we add up the things
+
+until what until n minus 1 n minus 1.
+
+so why is it so first of all before we
+
+understand why this is correct so let's
+
+understand why we call this a hockey
+
+stick identity
+
+so basically
+
+this is the pascal triangle
+
+that includes all the combinatorial
+
+terms so one and one one and then one
+
+two one and then one three three one one
+
+four six one one and so and so forth
+
+so the hockey stick identity says that
+
+if you want to get the term
+
+this term let's say a particular term
+
+here let's say this is 10 times here the
+
+term 10 here
+
+so we can go
+
+leftward
+
+and one entry to the previous row
+
+and then add up all these along the way
+
+all these along the way so 1 plus 3 plus
+
+6 will be equal to 10.
+
+so let's look at this 10 again this 10
+
+is equal to what this 10 is equal to 4
+
+plus 3 plus 2 plus 1.
+
+so how about this 5 this 5 is 0 to 1
+
+plus 1 plus 1 plus 1 plus 1. how about
+
+this 4 this 4 is equal to 3 plus 1.
+
+so
+
+so if we look at the terms that we are
+
+considering it looks like the hockey
+
+stick that we play in hockey
+
+yeah the hockey stick here so that's why
+
+we call it a hockey stick identity
+
+so why is this correct
+
+so again
+
+here we can come up with a story okay
+
+so there are n plus one items here that
+
+we can select so let's label all the
+
+items by one two three four five up to n
+
+plus one
+
+and then we want to select m of them in
+
+total so how many ways are there
+
+now the first term
+
+is the case that we will never select
+
+one so the the the item one is never
+
+selected
+
+i'm sorry so the item one must be
+
+selected sorry this is the item one must
+
+be selected
+
+so the item
+
+one must be selected the number of ways
+
+that we can do so is
+
+because one is already selected so we
+
+will need to find out n minus one items
+
+from the remaining n items to make a
+
+total number of m items so we get this
+
+term n and the n minus one
+
+so this term here means
+
+one is always selected
+
+so for the remaining case
+
+we will need to consider the remaining
+
+case we will we can never select one
+
+because whenever one is selected it is
+
+already counted here
+
+so this term is what this time is
+
+one is not selected but two is selected
+
+so in that case if one is not deleted
+
+but two is selected then what does that
+
+mean
+
+so it means that we will need to find
+
+out n minus one items from the remaining
+
+n minus one items to make a collection
+
+of m items
+
+so this talks about the second term
+
+talks about one not selected but two
+
+selected
+
+and then this is the third term the
+
+third term consider the case that one
+
+and two are both
+
+not selected but we need to select three
+
+so in that case we have this one
+
+and and so on and so forth so lastly
+
+this one
+
+it means that
+
+we will have one two three four five six
+
+seven eight up to n minus one
+
+they are let me see
+
+they are
+
+so so basically so this is this is the
+
+case that a couple of items is not
+
+selected and then and then and then what
+
+what must be selected and so and so
+
+forth so it means that the first
+
+n minus m plus one items are not
+
+selected
+
+so that means that we have only a minus
+
+and the end
+
+i think you you understand what i mean
+
+so so each of the term here corresponds
+
+to
+
+one more item cannot be selected so in
+
+the end we have no choice so for the
+
+remaining we have just a minus one items
+
+left and so we need to select all of
+
+them so this n minus 1 choose n minus 1.
+
+okay so don't worry if you don't
+
+understand what i'm talking about so far
+
+so
+
+most important thing here is
+
+you can
+
+go back home and then
+
+do this by yourself
+
+and then convince yourself that which
+
+what each term
+
+means okay so also what i'm given here
+
+is just one example so you can have your
+
+own story the the way of double counting
+
+proof is
+
+to make a story of what is the quantity
+
+on the left-hand side and make a story
+
+of what is the quantity on the
+
+right-hand side and then we want to show
+
+that these two uh
+
+t these two different stories are doing
+
+the same thing accounting the same
+
+identities so that's why they are equal
+
+so you can make your own story
+
+okay so how about this
+
+one okay so this one is n times n minus
+
+1 choose r is always the same as
+
+r plus 1 times
+
+n choose r plus 1.
+
+so here
+
+so how do we interpret the things here
+
+so here
+
+let's
+
+so it may be a little bit complicated
+
+but let's try to figure out what could
+
+the potential meaning of the left-hand
+
+side
+
+so the left-hand side looks like what
+
+looks like okay so there's n here and
+
+then you multiply something that just
+
+have n minus 1 to choose
+
+so probably we may think of this as
+
+let's say there are n people
+
+in a in a in a class
+
+and then we want to select one of them
+
+as the representative
+
+and after that
+
+we want to select
+
+and extra our people to be the to be the
+
+committee member of of the class society
+
+something like this
+
+so all together that
+
+so we need to select one people as the
+
+representative let's say the chairman of
+
+the class society
+
+and then
+
+are extra members for the class society
+
+so there are n ways of selection of the
+
+chairman out of n people
+
+and then from the remaining n minus 1
+
+people we need to pick out
+
+so this is one way to form a class
+
+society one chairman and then our other
+
+members
+
+now
+
+we can also form a class society using a
+
+different way
+
+but then this is exactly doing the same
+
+thing so what we are going to do here is
+
+we first select all the members
+
+including the chairman for the class
+
+society and after that we pick the
+
+chairman from these members
+
+so how many ways of doing so
+
+so that n choose our plus one ways to
+
+select the chairman together with the
+
+our members in the class society so
+
+these are
+
+forming the members of the class society
+
+first
+
+and then after that we have our plus one
+
+people
+
+and then we need to select the chairman
+
+from from them so there are plus one
+
+ways of doing so so this time we will
+
+see that
+
+the right hand side quantity is the
+
+number of ways that we can form a class
+
+society and the left-hand side is also
+
+the number of ways of that we can form a
+
+class society so they must be equal so
+
+that's why they are equal again there is
+
+no formula involved we are just arguing
+
+things based on the rule of product here
+
+rule of product here that's it
+
+and now finally this is what i want to
+
+introduce to you today so
+
+so this is perhaps the most complicated
+
+example
+
+that we have
+
+so this is actually a selected question
+
+from
+
+from our
+
+exam
+
+in 2019
+
+so here we have a very complicated
+
+summation thing
+
+and then i didn't tell you
+
+what this should be so you are not
+
+proving this is
+
+equal to what but instead
+
+see if we can interpret
+
+what is the summation sign here
+
+so after doing the
+
+the understanding of this we may be able
+
+to find
+
+an easy understanding of what this sum
+
+could be
+
+okay so this is the summation of let's
+
+take a look okay so first of all this
+
+time
+
+bracket and i here simply means n choose
+
+i so this is another shorthand notation
+
+for c and i so n choose i
+
+and then m minus i choose j
+
+so what does that mean so first of all
+
+let's take a look of this one so
+
+forget about the summation let's
+
+understand what this compound
+
+this product means so it looks like the
+
+n people that i want to pick i of them
+
+and then from the remaining a minus i
+
+people i want to pick j of them
+
+okay so so here basically
+
+we are
+
+looking at something like we are trying
+
+to
+
+we are trying to
+
+to
+
+make the members the n members of people
+
+into three different groups
+
+so i of them
+
+in the first group n choose i i of them
+
+in the first group
+
+right
+
+and then
+
+from the n minus i of them i choose j so
+
+j of them in the second group
+
+and finally n minus i minus j of them
+
+in the third group
+
+okay
+
+now here for j is equal to 1 up to n
+
+minus i minus 1 it means that
+
+i'm selecting
+
+the case that
+
+j has to be at least one
+
+and then j can be at most n minus i
+
+minus one
+
+so it means what it means that
+
+the second group
+
+and the third group cannot be
+
+empty it must have some people inside
+
+is that okay
+
+now for here n minus n choose i here
+
+when i ranges from 1 to n minus 2 it
+
+simply means that the first group has at
+
+least one people
+
+is that okay n choose i one people
+
+and up to n minus two people so that we
+
+can have two people left for the second
+
+group and the third group
+
+so all together what does that mean
+
+if you look at this summation sign
+
+we sum up all the different cases
+
+we are trying to
+
+what we are trying to
+
+to what to divide the group of n people
+
+into three groups
+
+okay
+
+such that
+
+each group is not empty
+
+so how many ways of doing so
+
+so any idea
+
+so first of all if there are
+
+no restrictions at all
+
+the number of ways to divide n people
+
+into three different groups
+
+will be 3 to the power n
+
+right
+
+it is because
+
+each particular person can be in group
+
+one group two or group three
+
+so
+
+by rule of product so the first one has
+
+three choice the second one has three
+
+choice and so on and so forth so all
+
+together they are three to the power and
+
+different ways of
+
+dividing the people into three groups
+
+but then we want to avoid
+
+people
+
+so we want to avoid the case that
+
+the first group is empty we want to
+
+avoid the case that the second group is
+
+empty and then we want to avoid the case
+
+that the third group is empty so in that
+
+case we need to do a little bit of
+
+of what of corrections so 3 to the power
+
+n is a little bit more than what we are
+
+counting
+
+so perhaps we have not done this before
+
+but then we can
+
+do something like the principle of
+
+inclusion and exclusion that
+
+i guess you have already studied in your
+
+discrete math class
+
+so by using the principle of inclusion
+
+and exclusion
+
+so the answer should not be just 3 to
+
+the power n
+
+it should be something like 3 to the
+
+power n minus the cases where
+
+one of the group is empty and then plus
+
+the case where two of the groups is
+
+are empty
+
+and then minus the case where three of
+
+the groups are all empty
+
+so
+
+so in that case this is my guess so you
+
+can you can
+
+double check whether this is correct at
+
+home
+
+so this is my solution okay so
+
+let me write this
+
+so this is my solution
+
+my solution will be this one
+
+is equal to
+
+3 to the power n
+
+minus the case that
+
+exactly not exactly at least one of the
+
+group is empty so let's say group 0 is
+
+empty so if group 0 is empty so the the
+
+the
+
+sorry group 1 so let's say we call the
+
+groups group 1 group 2 and group 3.
+
+group 1 is empty so how many ways are
+
+there there are two to the power m is
+
+and then group 2 is empty they're 2 to
+
+the power n ways root 3 is empty they're
+
+2 to the power n base
+
+but then we have
+
+over deducted so we need to add back the
+
+case where
+
+group 1 is group 1 and group 2 is empty
+
+so there are 1 to the power n
+
+plus 1 to the power n
+
+plus 1 to the power n something like
+
+this so in the end this should be
+
+something like so after simplification
+
+this should be 3 to the power n ah maybe
+
+let's see if i can use
+
+a
+
+how can i make it into
+
+let me see format
+
+one yeah i don't know how to how to
+
+change it to the
+
+superscript
+
+there should be a symbol here let me see
+
+let me see
+
+and like this okay three to the power n
+
+it should be something like this
+
+minus 3
+
+times
+
+2 to the power n
+
+and then finally
+
+plus three
+
+so
+
+so this is what i would guess so
+
+perhaps you can double check whether
+
+this is correct or
+
+so this is what i would guess
+
+but to
+
+yeah
+
+but the way that we get this it is
+
+because we have do the simplification to
+
+do the understanding of what this term
+
+could mean and because of this we can
+
+have a good interpretation so that we
+
+can use our existing knowledge to get
+
+the answer
+
+yeah i hope you like this so
+
+combinatorial proof is very useful
+
+because it avoids a lot of
+
+difficult and computation so if you want
+
+so
+
+later we will have formulas for n choose
+
+i n minus 1 minus i choose j something
+
+like this but this is complicated if you
+
+want to simplify them
+
+not to mention that we have a lot of
+
+summations here that we need to handle
+
+but on the other hand if we have a way
+
+to do this interpretation then
+
+everything could be made easy
+
+okay so i think that's all for what i
+
+want to show today yeah because this is
+
+the first week
+
+but i want to mention one thing okay
+
+so we are going to
+
+assume that you will study the materials
+
+of ocw recording and also the lecture
+
+notes at your own pace by yourself so
+
+roughly speaking
+
+we will have three hour lecture normally
+
+in a in a class so that's what we are
+
+expecting you to to review
+
+three hours of ocw recording every week
+
+so on thursday
+
+we will talk about a quick class summary
+
+of the three hour lectures that you have
+
+seen
+
+and then on tuesday like this we will
+
+answer any potential questions that you
+
+want to ask us
+
+or we will prepare something that is
+
+interesting for you so tuesday class
+
+normally will be very short
+
+and that thursday class normally will be
+
+very
+
+quick okay but i hope if you find any
+
+difficulties in the studying yeah please
+
+let us know okay so meanwhile if you
+
+have
+
+any questions could you please
+
+and
+
+stand to the discussion board
+
+here the chat room here
+
+if not then yeah let's meet on thursday
+
+and happy moon festival today
+
+so because i don't see any questions so
+
+let's end the class now okay thanks a
+
+lot for coming okay and then and then
+
+see you on thursday
+
+okay
+

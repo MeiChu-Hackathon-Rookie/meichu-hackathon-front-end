@@ -1,0 +1,2680 @@
+1
+00:00:08,480 --> 00:00:10,880
+hello
+
+2
+00:00:15,440 --> 00:00:18,400
+and can you hear me
+
+3
+00:00:23,279 --> 00:00:25,359
+okay excellent sorry for the delay so
+
+4
+00:00:25,359 --> 00:00:26,720
+there was some
+
+5
+00:00:26,720 --> 00:00:28,320
+connection problem
+
+6
+00:00:28,320 --> 00:00:30,560
+okay
+
+7
+00:00:33,440 --> 00:00:36,320
+so if you so let me double check okay so
+
+8
+00:00:36,320 --> 00:00:39,440
+welcome all for coming
+
+9
+00:00:42,480 --> 00:00:44,079
+okay let me double check so if you can
+
+10
+00:00:44,079 --> 00:00:46,399
+hear me clearly could you please give me
+
+11
+00:00:46,399 --> 00:00:47,920
+some response could you please type a
+
+12
+00:00:47,920 --> 00:00:50,920
+one
+
+13
+00:00:58,239 --> 00:01:00,480
+okay thanks very much okay
+
+14
+00:01:00,480 --> 00:01:01,600
+so
+
+15
+00:01:01,600 --> 00:01:04,000
+so so for today so we will talk about
+
+16
+00:01:04,000 --> 00:01:06,479
+something that is related to the
+
+17
+00:01:06,479 --> 00:01:07,760
+content of
+
+18
+00:01:07,760 --> 00:01:11,040
+our first week's and lectures
+
+19
+00:01:11,040 --> 00:01:13,360
+thank you very much okay
+
+20
+00:01:13,360 --> 00:01:15,680
+so we have tried to receive your
+
+21
+00:01:15,680 --> 00:01:18,159
+questions during the weekend but perhaps
+
+22
+00:01:18,159 --> 00:01:19,759
+uh it's just the beginning of the
+
+23
+00:01:19,759 --> 00:01:21,439
+semester so you don't have a lot of
+
+24
+00:01:21,439 --> 00:01:24,320
+questions so i've prepared something for
+
+25
+00:01:24,320 --> 00:01:26,880
+you so it should be a very quick uh
+
+26
+00:01:26,880 --> 00:01:28,560
+tutorial today
+
+27
+00:01:28,560 --> 00:01:30,240
+and then if you have any questions there
+
+28
+00:01:30,240 --> 00:01:33,600
+please don't hesitate to ask me
+
+29
+00:01:33,600 --> 00:01:35,680
+okay so one key thing that we have
+
+30
+00:01:35,680 --> 00:01:36,880
+talked about
+
+31
+00:01:36,880 --> 00:01:39,360
+in the last class is something called
+
+32
+00:01:39,360 --> 00:01:41,600
+combinatorial arguments
+
+33
+00:01:41,600 --> 00:01:43,680
+so combinatorial arguments are something
+
+34
+00:01:43,680 --> 00:01:45,200
+that is
+
+35
+00:01:45,200 --> 00:01:48,799
+is a way of proving identities
+
+36
+00:01:48,799 --> 00:01:49,920
+so
+
+37
+00:01:49,920 --> 00:01:52,560
+i checked the wikipedia so mainly there
+
+38
+00:01:52,560 --> 00:01:54,399
+are two different categories of
+
+39
+00:01:54,399 --> 00:01:56,320
+combinatorial arguments
+
+40
+00:01:56,320 --> 00:01:58,159
+so the first one is called double
+
+41
+00:01:58,159 --> 00:01:59,840
+counting
+
+42
+00:01:59,840 --> 00:02:02,159
+so the double counting technique is we
+
+43
+00:02:02,159 --> 00:02:03,920
+try to count
+
+44
+00:02:03,920 --> 00:02:06,719
+the same quantity a value which talks
+
+45
+00:02:06,719 --> 00:02:09,038
+about the number of ways of doing things
+
+46
+00:02:09,038 --> 00:02:11,200
+we count it using two different methods
+
+47
+00:02:11,200 --> 00:02:13,760
+so in that case we will have two views
+
+48
+00:02:13,760 --> 00:02:16,160
+of the same quantity so that we can we
+
+49
+00:02:16,160 --> 00:02:18,959
+can get our desired result
+
+50
+00:02:18,959 --> 00:02:21,040
+and the other type of combinatorial
+
+51
+00:02:21,040 --> 00:02:23,920
+argument is the so-called bijective
+
+52
+00:02:23,920 --> 00:02:24,800
+proof
+
+53
+00:02:24,800 --> 00:02:27,760
+and for this one it is used to show that
+
+54
+00:02:27,760 --> 00:02:30,640
+two sets have the same number of items
+
+55
+00:02:30,640 --> 00:02:31,680
+so by
+
+56
+00:02:31,680 --> 00:02:34,160
+finding a one-to-one correspondence
+
+57
+00:02:34,160 --> 00:02:36,160
+between the items of the two sets we
+
+58
+00:02:36,160 --> 00:02:37,599
+will see that the two sets will have the
+
+59
+00:02:37,599 --> 00:02:39,760
+same number of items but this is not the
+
+60
+00:02:39,760 --> 00:02:41,519
+focus of today so we will talk about
+
+61
+00:02:41,519 --> 00:02:43,360
+double counting
+
+62
+00:02:43,360 --> 00:02:45,280
+and then we will look at a couple of
+
+63
+00:02:45,280 --> 00:02:48,239
+examples today
+
+64
+00:02:48,480 --> 00:02:49,599
+so this is
+
+65
+00:02:49,599 --> 00:02:52,720
+the easiest example probably
+
+66
+00:02:52,720 --> 00:02:56,239
+so in this example we want to show that
+
+67
+00:02:56,239 --> 00:02:59,599
+n choose k the value of n choose k
+
+68
+00:02:59,599 --> 00:03:02,159
+is always the same as the value of n
+
+69
+00:03:02,159 --> 00:03:05,200
+choose n minus k
+
+70
+00:03:05,200 --> 00:03:06,560
+now remember when we are doing
+
+71
+00:03:06,560 --> 00:03:09,360
+combinatorial arguments we do not have
+
+72
+00:03:09,360 --> 00:03:11,680
+any access to the
+
+73
+00:03:11,680 --> 00:03:13,280
+exact
+
+74
+00:03:13,280 --> 00:03:15,040
+formula for n choose k so we don't know
+
+75
+00:03:15,040 --> 00:03:17,200
+entries k is equal to something like
+
+76
+00:03:17,200 --> 00:03:19,840
+n factorial divided by k factorial and n
+
+77
+00:03:19,840 --> 00:03:22,879
+minus k factorial we don't know this
+
+78
+00:03:22,879 --> 00:03:24,959
+we just want to argue
+
+79
+00:03:24,959 --> 00:03:27,599
+the meaning from the physical meaning of
+
+80
+00:03:27,599 --> 00:03:29,280
+each of the terms
+
+81
+00:03:29,280 --> 00:03:31,120
+and then we want to establish the
+
+82
+00:03:31,120 --> 00:03:34,400
+equivalence of the both sides okay
+
+83
+00:03:34,400 --> 00:03:36,640
+so first of all n choose k is what n
+
+84
+00:03:36,640 --> 00:03:38,799
+choose k is the number of ways of
+
+85
+00:03:38,799 --> 00:03:41,680
+selecting k items from a total of n
+
+86
+00:03:41,680 --> 00:03:43,760
+items
+
+87
+00:03:43,760 --> 00:03:44,879
+so
+
+88
+00:03:44,879 --> 00:03:45,599
+so
+
+89
+00:03:45,599 --> 00:03:48,480
+by viewing of selection of k items to
+
+90
+00:03:48,480 --> 00:03:49,519
+keep
+
+91
+00:03:49,519 --> 00:03:51,519
+so it must be the same as
+
+92
+00:03:51,519 --> 00:03:54,720
+we are so when we try to keep k items so
+
+93
+00:03:54,720 --> 00:03:56,959
+it must mean that we are throwing away n
+
+94
+00:03:56,959 --> 00:03:59,040
+minus k items
+
+95
+00:03:59,040 --> 00:04:02,159
+so each time we keep a particular
+
+96
+00:04:02,159 --> 00:04:04,959
+set of k items we are actually throwing
+
+97
+00:04:04,959 --> 00:04:06,319
+the complements
+
+98
+00:04:06,319 --> 00:04:08,480
+n minus k items there
+
+99
+00:04:08,480 --> 00:04:11,200
+so the number of ways of selection of k
+
+100
+00:04:11,200 --> 00:04:13,840
+items must be done the same as the
+
+101
+00:04:13,840 --> 00:04:15,760
+number of ways of
+
+102
+00:04:15,760 --> 00:04:18,399
+discarding n minus k items so that's why
+
+103
+00:04:18,399 --> 00:04:20,560
+we have n choose k
+
+104
+00:04:20,560 --> 00:04:23,040
+is equal to n choose n minus k so this
+
+105
+00:04:23,040 --> 00:04:25,680
+is quite easy right
+
+106
+00:04:25,680 --> 00:04:29,840
+now let's take a look of this one
+
+107
+00:04:30,000 --> 00:04:33,040
+oh this is something that i just come up
+
+108
+00:04:33,040 --> 00:04:35,600
+now so so please help me to double check
+
+109
+00:04:35,600 --> 00:04:38,320
+whether this is correct
+
+110
+00:04:38,320 --> 00:04:41,199
+so here we are saying that n plus one
+
+111
+00:04:41,199 --> 00:04:42,560
+the permutation the number of
+
+112
+00:04:42,560 --> 00:04:44,720
+permutations of
+
+113
+00:04:44,720 --> 00:04:47,120
+uh p n plus one r
+
+114
+00:04:47,120 --> 00:04:49,680
+so this is like we have n plus one
+
+115
+00:04:49,680 --> 00:04:51,440
+objects to select
+
+116
+00:04:51,440 --> 00:04:53,759
+and then we want to select all of them
+
+117
+00:04:53,759 --> 00:04:55,440
+and then make an arrangement so the
+
+118
+00:04:55,440 --> 00:04:58,639
+number of ways of doing so
+
+119
+00:04:58,639 --> 00:05:01,039
+is always the same as
+
+120
+00:05:01,039 --> 00:05:04,240
+p n r plus r times
+
+121
+00:05:04,240 --> 00:05:08,000
+p n r minus 1.
+
+122
+00:05:08,960 --> 00:05:13,840
+so how do we interpret this result
+
+123
+00:05:13,840 --> 00:05:15,680
+so first of all we will see that on the
+
+124
+00:05:15,680 --> 00:05:18,000
+left hand side there is n plus one r and
+
+125
+00:05:18,000 --> 00:05:19,759
+on the right hand side there is n r
+
+126
+00:05:19,759 --> 00:05:20,800
+right
+
+127
+00:05:20,800 --> 00:05:22,960
+so m plus one r and n r they are
+
+128
+00:05:22,960 --> 00:05:26,320
+different by having one extra
+
+129
+00:05:26,320 --> 00:05:28,639
+objects here that we can select
+
+130
+00:05:28,639 --> 00:05:31,280
+so let's call it a special object
+
+131
+00:05:31,280 --> 00:05:32,560
+okay
+
+132
+00:05:32,560 --> 00:05:34,720
+so the number of ways of getting a
+
+133
+00:05:34,720 --> 00:05:37,199
+permutation with the special objects
+
+134
+00:05:37,199 --> 00:05:39,360
+that we can use
+
+135
+00:05:39,360 --> 00:05:41,600
+so we can classify this into two
+
+136
+00:05:41,600 --> 00:05:43,600
+different types
+
+137
+00:05:43,600 --> 00:05:44,560
+one is
+
+138
+00:05:44,560 --> 00:05:47,360
+we are going to use we are going to use
+
+139
+00:05:47,360 --> 00:05:49,360
+the special object
+
+140
+00:05:49,360 --> 00:05:51,360
+and then the other type is we are not
+
+141
+00:05:51,360 --> 00:05:53,840
+going to use the special object
+
+142
+00:05:53,840 --> 00:05:56,080
+okay so here n plus 1 means that we have
+
+143
+00:05:56,080 --> 00:05:58,720
+n original object plus one new object
+
+144
+00:05:58,720 --> 00:06:02,000
+that we can use okay
+
+145
+00:06:02,160 --> 00:06:03,039
+so
+
+146
+00:06:03,039 --> 00:06:05,919
+so the number of ways of not using the
+
+147
+00:06:05,919 --> 00:06:08,400
+special object must be p and r right
+
+148
+00:06:08,400 --> 00:06:10,240
+because we take that away we will not
+
+149
+00:06:10,240 --> 00:06:11,440
+consider it
+
+150
+00:06:11,440 --> 00:06:13,840
+so the number of ways of doing selection
+
+151
+00:06:13,840 --> 00:06:15,919
+of our objects from the old objects and
+
+152
+00:06:15,919 --> 00:06:18,319
+making an arrangement must be
+
+153
+00:06:18,319 --> 00:06:21,120
+p and r
+
+154
+00:06:21,120 --> 00:06:23,120
+okay for the other way
+
+155
+00:06:23,120 --> 00:06:25,120
+the other way is
+
+156
+00:06:25,120 --> 00:06:29,360
+so we must include the special objects
+
+157
+00:06:29,360 --> 00:06:32,160
+so by including the special object so we
+
+158
+00:06:32,160 --> 00:06:34,479
+will first decide
+
+159
+00:06:34,479 --> 00:06:36,639
+in which location will the special
+
+160
+00:06:36,639 --> 00:06:38,319
+objects be placed
+
+161
+00:06:38,319 --> 00:06:40,080
+because in the end
+
+162
+00:06:40,080 --> 00:06:43,680
+it is an r permutation there are
+
+163
+00:06:43,680 --> 00:06:45,919
+positions that these special objects can
+
+164
+00:06:45,919 --> 00:06:46,880
+be placed
+
+165
+00:06:46,880 --> 00:06:49,199
+so there are choices that we can make to
+
+166
+00:06:49,199 --> 00:06:51,599
+place a special object
+
+167
+00:06:51,599 --> 00:06:54,080
+and then for the remaining r minus 1
+
+168
+00:06:54,080 --> 00:06:55,440
+positions
+
+169
+00:06:55,440 --> 00:06:58,080
+we will need to fill in
+
+170
+00:06:58,080 --> 00:07:00,479
+r minus 1 objects from the old objects
+
+171
+00:07:00,479 --> 00:07:03,199
+so the number of ways of doing so is p n
+
+172
+00:07:03,199 --> 00:07:04,960
+r minus 1.
+
+173
+00:07:04,960 --> 00:07:06,639
+now notice that
+
+174
+00:07:06,639 --> 00:07:09,440
+again in the previous argument that we
+
+175
+00:07:09,440 --> 00:07:11,039
+have just made
+
+176
+00:07:11,039 --> 00:07:12,400
+we are not
+
+177
+00:07:12,400 --> 00:07:15,599
+looking at any formula for p and r
+
+178
+00:07:15,599 --> 00:07:18,160
+we are just arguing all the things based
+
+179
+00:07:18,160 --> 00:07:21,520
+on the definition of the term p and r
+
+180
+00:07:21,520 --> 00:07:23,520
+and then here we are using rule of
+
+181
+00:07:23,520 --> 00:07:25,440
+products
+
+182
+00:07:25,440 --> 00:07:28,400
+and the rule of thumb these basic rules
+
+183
+00:07:28,400 --> 00:07:31,199
+to help us to understand why this
+
+184
+00:07:31,199 --> 00:07:34,800
+equality must be correct
+
+185
+00:07:34,960 --> 00:07:36,560
+okay so let's take a look of another
+
+186
+00:07:36,560 --> 00:07:39,360
+example so so go home
+
+187
+00:07:39,360 --> 00:07:40,400
+so
+
+188
+00:07:40,400 --> 00:07:41,680
+if if you want to check your
+
+189
+00:07:41,680 --> 00:07:44,800
+understanding go home and cover all the
+
+190
+00:07:44,800 --> 00:07:47,440
+voices of this video and let's see if
+
+191
+00:07:47,440 --> 00:07:48,960
+you can
+
+192
+00:07:48,960 --> 00:07:51,680
+come up with the combinatorial ex proof
+
+193
+00:07:51,680 --> 00:07:54,319
+by yourself
+
+194
+00:07:54,479 --> 00:07:56,560
+now the next one is called the hockey
+
+195
+00:07:56,560 --> 00:07:59,840
+stick identity
+
+196
+00:07:59,919 --> 00:08:01,120
+so it is
+
+197
+00:08:01,120 --> 00:08:03,680
+saying that
+
+198
+00:08:03,759 --> 00:08:04,720
+ah
+
+199
+00:08:04,720 --> 00:08:06,639
+there was something wrong here i'm sorry
+
+200
+00:08:06,639 --> 00:08:07,680
+so
+
+201
+00:08:07,680 --> 00:08:09,840
+let me see so
+
+202
+00:08:09,840 --> 00:08:10,479
+so
+
+203
+00:08:10,479 --> 00:08:13,280
+sorry there is a mistake here
+
+204
+00:08:13,280 --> 00:08:16,479
+so it must be something like
+
+205
+00:08:16,479 --> 00:08:17,840
+this is
+
+206
+00:08:17,840 --> 00:08:20,639
+n minus 1
+
+207
+00:08:20,800 --> 00:08:23,120
+sorry
+
+208
+00:08:24,800 --> 00:08:26,960
+so every time here is n minus one okay
+
+209
+00:08:26,960 --> 00:08:28,000
+sorry
+
+210
+00:08:28,000 --> 00:08:31,120
+so let me go back again
+
+211
+00:08:31,599 --> 00:08:33,120
+so it says that
+
+212
+00:08:33,120 --> 00:08:34,880
+c n plus one
+
+213
+00:08:34,880 --> 00:08:37,200
+m m plus one object
+
+214
+00:08:37,200 --> 00:08:39,200
+choosing m object
+
+215
+00:08:39,200 --> 00:08:41,839
+must be the same as the summation of the
+
+216
+00:08:41,839 --> 00:08:43,679
+following terms
+
+217
+00:08:43,679 --> 00:08:46,880
+the first one is n choose n minus 1
+
+218
+00:08:46,880 --> 00:08:48,800
+and then the next one is n minus 1
+
+219
+00:08:48,800 --> 00:08:50,560
+choose n minus 1
+
+220
+00:08:50,560 --> 00:08:52,560
+and then the next one is n minus 2
+
+221
+00:08:52,560 --> 00:08:55,279
+choose n minus 1 and so on and so forth
+
+222
+00:08:55,279 --> 00:08:57,120
+we add up the things
+
+223
+00:08:57,120 --> 00:09:02,160
+until what until n minus 1 n minus 1.
+
+224
+00:09:02,160 --> 00:09:05,120
+so why is it so first of all before we
+
+225
+00:09:05,120 --> 00:09:07,200
+understand why this is correct so let's
+
+226
+00:09:07,200 --> 00:09:08,959
+understand why we call this a hockey
+
+227
+00:09:08,959 --> 00:09:10,720
+stick identity
+
+228
+00:09:10,720 --> 00:09:12,560
+so basically
+
+229
+00:09:12,560 --> 00:09:15,120
+this is the pascal triangle
+
+230
+00:09:15,120 --> 00:09:17,200
+that includes all the combinatorial
+
+231
+00:09:17,200 --> 00:09:19,360
+terms so one and one one and then one
+
+232
+00:09:19,360 --> 00:09:21,279
+two one and then one three three one one
+
+233
+00:09:21,279 --> 00:09:23,680
+four six one one and so and so forth
+
+234
+00:09:23,680 --> 00:09:25,920
+so the hockey stick identity says that
+
+235
+00:09:25,920 --> 00:09:28,640
+if you want to get the term
+
+236
+00:09:28,640 --> 00:09:30,240
+this term let's say a particular term
+
+237
+00:09:30,240 --> 00:09:32,399
+here let's say this is 10 times here the
+
+238
+00:09:32,399 --> 00:09:34,080
+term 10 here
+
+239
+00:09:34,080 --> 00:09:35,360
+so we can go
+
+240
+00:09:35,360 --> 00:09:37,839
+leftward
+
+241
+00:09:38,959 --> 00:09:42,160
+and one entry to the previous row
+
+242
+00:09:42,160 --> 00:09:44,640
+and then add up all these along the way
+
+243
+00:09:44,640 --> 00:09:47,680
+all these along the way so 1 plus 3 plus
+
+244
+00:09:47,680 --> 00:09:49,680
+6 will be equal to 10.
+
+245
+00:09:49,680 --> 00:09:51,760
+so let's look at this 10 again this 10
+
+246
+00:09:51,760 --> 00:09:53,839
+is equal to what this 10 is equal to 4
+
+247
+00:09:53,839 --> 00:09:56,560
+plus 3 plus 2 plus 1.
+
+248
+00:09:56,560 --> 00:09:59,279
+so how about this 5 this 5 is 0 to 1
+
+249
+00:09:59,279 --> 00:10:01,839
+plus 1 plus 1 plus 1 plus 1. how about
+
+250
+00:10:01,839 --> 00:10:05,120
+this 4 this 4 is equal to 3 plus 1.
+
+251
+00:10:05,120 --> 00:10:06,079
+so
+
+252
+00:10:06,079 --> 00:10:07,760
+so if we look at the terms that we are
+
+253
+00:10:07,760 --> 00:10:09,760
+considering it looks like the hockey
+
+254
+00:10:09,760 --> 00:10:13,200
+stick that we play in hockey
+
+255
+00:10:13,200 --> 00:10:15,360
+yeah the hockey stick here so that's why
+
+256
+00:10:15,360 --> 00:10:19,760
+we call it a hockey stick identity
+
+257
+00:10:19,760 --> 00:10:23,360
+so why is this correct
+
+258
+00:10:24,000 --> 00:10:25,839
+so again
+
+259
+00:10:25,839 --> 00:10:29,279
+here we can come up with a story okay
+
+260
+00:10:29,279 --> 00:10:31,920
+so there are n plus one items here that
+
+261
+00:10:31,920 --> 00:10:34,079
+we can select so let's label all the
+
+262
+00:10:34,079 --> 00:10:36,800
+items by one two three four five up to n
+
+263
+00:10:36,800 --> 00:10:38,560
+plus one
+
+264
+00:10:38,560 --> 00:10:40,560
+and then we want to select m of them in
+
+265
+00:10:40,560 --> 00:10:42,800
+total so how many ways are there
+
+266
+00:10:42,800 --> 00:10:44,560
+now the first term
+
+267
+00:10:44,560 --> 00:10:47,279
+is the case that we will never select
+
+268
+00:10:47,279 --> 00:10:50,800
+one so the the the item one is never
+
+269
+00:10:50,800 --> 00:10:53,040
+selected
+
+270
+00:10:53,040 --> 00:10:55,279
+i'm sorry so the item one must be
+
+271
+00:10:55,279 --> 00:10:57,279
+selected sorry this is the item one must
+
+272
+00:10:57,279 --> 00:10:59,600
+be selected
+
+273
+00:10:59,600 --> 00:11:02,480
+so the item
+
+274
+00:11:02,480 --> 00:11:04,640
+one must be selected the number of ways
+
+275
+00:11:04,640 --> 00:11:06,640
+that we can do so is
+
+276
+00:11:06,640 --> 00:11:08,959
+because one is already selected so we
+
+277
+00:11:08,959 --> 00:11:12,880
+will need to find out n minus one items
+
+278
+00:11:12,880 --> 00:11:15,279
+from the remaining n items to make a
+
+279
+00:11:15,279 --> 00:11:17,519
+total number of m items so we get this
+
+280
+00:11:17,519 --> 00:11:20,000
+term n and the n minus one
+
+281
+00:11:20,000 --> 00:11:22,399
+so this term here means
+
+282
+00:11:22,399 --> 00:11:25,040
+one is always selected
+
+283
+00:11:25,040 --> 00:11:26,959
+so for the remaining case
+
+284
+00:11:26,959 --> 00:11:29,040
+we will need to consider the remaining
+
+285
+00:11:29,040 --> 00:11:30,959
+case we will we can never select one
+
+286
+00:11:30,959 --> 00:11:32,720
+because whenever one is selected it is
+
+287
+00:11:32,720 --> 00:11:34,560
+already counted here
+
+288
+00:11:34,560 --> 00:11:37,200
+so this term is what this time is
+
+289
+00:11:37,200 --> 00:11:42,440
+one is not selected but two is selected
+
+290
+00:11:43,120 --> 00:11:46,320
+so in that case if one is not deleted
+
+291
+00:11:46,320 --> 00:11:48,079
+but two is selected then what does that
+
+292
+00:11:48,079 --> 00:11:49,040
+mean
+
+293
+00:11:49,040 --> 00:11:51,600
+so it means that we will need to find
+
+294
+00:11:51,600 --> 00:11:54,160
+out n minus one items from the remaining
+
+295
+00:11:54,160 --> 00:11:56,240
+n minus one items to make a collection
+
+296
+00:11:56,240 --> 00:11:57,760
+of m items
+
+297
+00:11:57,760 --> 00:11:59,680
+so this talks about the second term
+
+298
+00:11:59,680 --> 00:12:02,000
+talks about one not selected but two
+
+299
+00:12:02,000 --> 00:12:03,680
+selected
+
+300
+00:12:03,680 --> 00:12:05,440
+and then this is the third term the
+
+301
+00:12:05,440 --> 00:12:07,680
+third term consider the case that one
+
+302
+00:12:07,680 --> 00:12:09,440
+and two are both
+
+303
+00:12:09,440 --> 00:12:12,560
+not selected but we need to select three
+
+304
+00:12:12,560 --> 00:12:15,279
+so in that case we have this one
+
+305
+00:12:15,279 --> 00:12:18,399
+and and so on and so forth so lastly
+
+306
+00:12:18,399 --> 00:12:19,440
+this one
+
+307
+00:12:19,440 --> 00:12:21,760
+it means that
+
+308
+00:12:21,760 --> 00:12:24,000
+we will have one two three four five six
+
+309
+00:12:24,000 --> 00:12:27,680
+seven eight up to n minus one
+
+310
+00:12:27,680 --> 00:12:30,320
+they are let me see
+
+311
+00:12:30,320 --> 00:12:32,959
+they are
+
+312
+00:12:33,360 --> 00:12:35,760
+so so basically so this is this is the
+
+313
+00:12:35,760 --> 00:12:37,519
+case that a couple of items is not
+
+314
+00:12:37,519 --> 00:12:40,000
+selected and then and then and then what
+
+315
+00:12:40,000 --> 00:12:41,360
+what must be selected and so and so
+
+316
+00:12:41,360 --> 00:12:44,240
+forth so it means that the first
+
+317
+00:12:44,240 --> 00:12:46,560
+n minus m plus one items are not
+
+318
+00:12:46,560 --> 00:12:48,800
+selected
+
+319
+00:12:48,800 --> 00:12:51,279
+so that means that we have only a minus
+
+320
+00:12:51,279 --> 00:12:52,480
+and the end
+
+321
+00:12:52,480 --> 00:12:54,079
+i think you you understand what i mean
+
+322
+00:12:54,079 --> 00:12:56,320
+so so each of the term here corresponds
+
+323
+00:12:56,320 --> 00:12:57,040
+to
+
+324
+00:12:57,040 --> 00:12:59,839
+one more item cannot be selected so in
+
+325
+00:12:59,839 --> 00:13:02,800
+the end we have no choice so for the
+
+326
+00:13:02,800 --> 00:13:04,880
+remaining we have just a minus one items
+
+327
+00:13:04,880 --> 00:13:07,760
+left and so we need to select all of
+
+328
+00:13:07,760 --> 00:13:10,560
+them so this n minus 1 choose n minus 1.
+
+329
+00:13:10,560 --> 00:13:12,399
+okay so don't worry if you don't
+
+330
+00:13:12,399 --> 00:13:14,399
+understand what i'm talking about so far
+
+331
+00:13:14,399 --> 00:13:15,360
+so
+
+332
+00:13:15,360 --> 00:13:17,519
+most important thing here is
+
+333
+00:13:17,519 --> 00:13:18,720
+you can
+
+334
+00:13:18,720 --> 00:13:21,200
+go back home and then
+
+335
+00:13:21,200 --> 00:13:22,959
+do this by yourself
+
+336
+00:13:22,959 --> 00:13:25,360
+and then convince yourself that which
+
+337
+00:13:25,360 --> 00:13:27,200
+what each term
+
+338
+00:13:27,200 --> 00:13:30,560
+means okay so also what i'm given here
+
+339
+00:13:30,560 --> 00:13:32,800
+is just one example so you can have your
+
+340
+00:13:32,800 --> 00:13:36,800
+own story the the way of double counting
+
+341
+00:13:36,800 --> 00:13:38,079
+proof is
+
+342
+00:13:38,079 --> 00:13:40,959
+to make a story of what is the quantity
+
+343
+00:13:40,959 --> 00:13:43,199
+on the left-hand side and make a story
+
+344
+00:13:43,199 --> 00:13:44,560
+of what is the quantity on the
+
+345
+00:13:44,560 --> 00:13:46,480
+right-hand side and then we want to show
+
+346
+00:13:46,480 --> 00:13:49,360
+that these two uh
+
+347
+00:13:49,360 --> 00:13:51,440
+t these two different stories are doing
+
+348
+00:13:51,440 --> 00:13:53,199
+the same thing accounting the same
+
+349
+00:13:53,199 --> 00:13:54,880
+identities so that's why they are equal
+
+350
+00:13:54,880 --> 00:13:58,000
+so you can make your own story
+
+351
+00:13:58,000 --> 00:14:00,839
+okay so how about this
+
+352
+00:14:00,839 --> 00:14:04,959
+one okay so this one is n times n minus
+
+353
+00:14:04,959 --> 00:14:08,000
+1 choose r is always the same as
+
+354
+00:14:08,000 --> 00:14:10,000
+r plus 1 times
+
+355
+00:14:10,000 --> 00:14:13,440
+n choose r plus 1.
+
+356
+00:14:14,480 --> 00:14:17,839
+so here
+
+357
+00:14:18,000 --> 00:14:22,320
+so how do we interpret the things here
+
+358
+00:14:23,120 --> 00:14:24,320
+so here
+
+359
+00:14:24,320 --> 00:14:25,279
+let's
+
+360
+00:14:25,279 --> 00:14:27,680
+so it may be a little bit complicated
+
+361
+00:14:27,680 --> 00:14:29,839
+but let's try to figure out what could
+
+362
+00:14:29,839 --> 00:14:31,680
+the potential meaning of the left-hand
+
+363
+00:14:31,680 --> 00:14:33,920
+side
+
+364
+00:14:34,000 --> 00:14:35,920
+so the left-hand side looks like what
+
+365
+00:14:35,920 --> 00:14:37,920
+looks like okay so there's n here and
+
+366
+00:14:37,920 --> 00:14:39,680
+then you multiply something that just
+
+367
+00:14:39,680 --> 00:14:42,079
+have n minus 1 to choose
+
+368
+00:14:42,079 --> 00:14:45,040
+so probably we may think of this as
+
+369
+00:14:45,040 --> 00:14:47,199
+let's say there are n people
+
+370
+00:14:47,199 --> 00:14:50,000
+in a in a in a class
+
+371
+00:14:50,000 --> 00:14:52,720
+and then we want to select one of them
+
+372
+00:14:52,720 --> 00:14:55,279
+as the representative
+
+373
+00:14:55,279 --> 00:14:57,040
+and after that
+
+374
+00:14:57,040 --> 00:14:58,880
+we want to select
+
+375
+00:14:58,880 --> 00:15:02,560
+and extra our people to be the to be the
+
+376
+00:15:02,560 --> 00:15:05,440
+committee member of of the class society
+
+377
+00:15:05,440 --> 00:15:06,800
+something like this
+
+378
+00:15:06,800 --> 00:15:08,639
+so all together that
+
+379
+00:15:08,639 --> 00:15:10,800
+so we need to select one people as the
+
+380
+00:15:10,800 --> 00:15:12,480
+representative let's say the chairman of
+
+381
+00:15:12,480 --> 00:15:14,399
+the class society
+
+382
+00:15:14,399 --> 00:15:15,680
+and then
+
+383
+00:15:15,680 --> 00:15:20,079
+are extra members for the class society
+
+384
+00:15:20,079 --> 00:15:22,959
+so there are n ways of selection of the
+
+385
+00:15:22,959 --> 00:15:25,199
+chairman out of n people
+
+386
+00:15:25,199 --> 00:15:27,040
+and then from the remaining n minus 1
+
+387
+00:15:27,040 --> 00:15:29,040
+people we need to pick out
+
+388
+00:15:29,040 --> 00:15:31,519
+so this is one way to form a class
+
+389
+00:15:31,519 --> 00:15:34,480
+society one chairman and then our other
+
+390
+00:15:34,480 --> 00:15:36,399
+members
+
+391
+00:15:36,399 --> 00:15:37,600
+now
+
+392
+00:15:37,600 --> 00:15:40,720
+we can also form a class society using a
+
+393
+00:15:40,720 --> 00:15:41,920
+different way
+
+394
+00:15:41,920 --> 00:15:43,839
+but then this is exactly doing the same
+
+395
+00:15:43,839 --> 00:15:46,399
+thing so what we are going to do here is
+
+396
+00:15:46,399 --> 00:15:49,120
+we first select all the members
+
+397
+00:15:49,120 --> 00:15:50,880
+including the chairman for the class
+
+398
+00:15:50,880 --> 00:15:54,079
+society and after that we pick the
+
+399
+00:15:54,079 --> 00:15:57,279
+chairman from these members
+
+400
+00:15:57,279 --> 00:15:59,519
+so how many ways of doing so
+
+401
+00:15:59,519 --> 00:16:02,959
+so that n choose our plus one ways to
+
+402
+00:16:02,959 --> 00:16:05,360
+select the chairman together with the
+
+403
+00:16:05,360 --> 00:16:07,199
+our members in the class society so
+
+404
+00:16:07,199 --> 00:16:08,639
+these are
+
+405
+00:16:08,639 --> 00:16:10,720
+forming the members of the class society
+
+406
+00:16:10,720 --> 00:16:11,839
+first
+
+407
+00:16:11,839 --> 00:16:14,560
+and then after that we have our plus one
+
+408
+00:16:14,560 --> 00:16:15,680
+people
+
+409
+00:16:15,680 --> 00:16:17,600
+and then we need to select the chairman
+
+410
+00:16:17,600 --> 00:16:20,240
+from from them so there are plus one
+
+411
+00:16:20,240 --> 00:16:23,600
+ways of doing so so this time we will
+
+412
+00:16:23,600 --> 00:16:24,720
+see that
+
+413
+00:16:24,720 --> 00:16:26,560
+the right hand side quantity is the
+
+414
+00:16:26,560 --> 00:16:28,160
+number of ways that we can form a class
+
+415
+00:16:28,160 --> 00:16:30,399
+society and the left-hand side is also
+
+416
+00:16:30,399 --> 00:16:32,160
+the number of ways of that we can form a
+
+417
+00:16:32,160 --> 00:16:34,160
+class society so they must be equal so
+
+418
+00:16:34,160 --> 00:16:37,040
+that's why they are equal again there is
+
+419
+00:16:37,040 --> 00:16:40,000
+no formula involved we are just arguing
+
+420
+00:16:40,000 --> 00:16:42,959
+things based on the rule of product here
+
+421
+00:16:42,959 --> 00:16:46,160
+rule of product here that's it
+
+422
+00:16:46,160 --> 00:16:48,959
+and now finally this is what i want to
+
+423
+00:16:48,959 --> 00:16:51,519
+introduce to you today so
+
+424
+00:16:51,519 --> 00:16:54,160
+so this is perhaps the most complicated
+
+425
+00:16:54,160 --> 00:16:56,480
+example
+
+426
+00:16:56,480 --> 00:16:58,639
+that we have
+
+427
+00:16:58,639 --> 00:17:01,120
+so this is actually a selected question
+
+428
+00:17:01,120 --> 00:17:01,920
+from
+
+429
+00:17:01,920 --> 00:17:03,680
+from our
+
+430
+00:17:03,680 --> 00:17:05,599
+exam
+
+431
+00:17:05,599 --> 00:17:08,480
+in 2019
+
+432
+00:17:08,480 --> 00:17:11,520
+so here we have a very complicated
+
+433
+00:17:11,520 --> 00:17:14,480
+summation thing
+
+434
+00:17:14,640 --> 00:17:17,039
+and then i didn't tell you
+
+435
+00:17:17,039 --> 00:17:18,880
+what this should be so you are not
+
+436
+00:17:18,880 --> 00:17:20,559
+proving this is
+
+437
+00:17:20,559 --> 00:17:23,280
+equal to what but instead
+
+438
+00:17:23,280 --> 00:17:25,839
+see if we can interpret
+
+439
+00:17:25,839 --> 00:17:28,400
+what is the summation sign here
+
+440
+00:17:28,400 --> 00:17:30,480
+so after doing the
+
+441
+00:17:30,480 --> 00:17:32,559
+the understanding of this we may be able
+
+442
+00:17:32,559 --> 00:17:34,400
+to find
+
+443
+00:17:34,400 --> 00:17:37,360
+an easy understanding of what this sum
+
+444
+00:17:37,360 --> 00:17:39,760
+could be
+
+445
+00:17:39,919 --> 00:17:42,400
+okay so this is the summation of let's
+
+446
+00:17:42,400 --> 00:17:44,240
+take a look okay so first of all this
+
+447
+00:17:44,240 --> 00:17:45,200
+time
+
+448
+00:17:45,200 --> 00:17:48,080
+bracket and i here simply means n choose
+
+449
+00:17:48,080 --> 00:17:50,400
+i so this is another shorthand notation
+
+450
+00:17:50,400 --> 00:17:52,960
+for c and i so n choose i
+
+451
+00:17:52,960 --> 00:17:56,240
+and then m minus i choose j
+
+452
+00:17:56,240 --> 00:17:58,240
+so what does that mean so first of all
+
+453
+00:17:58,240 --> 00:18:00,480
+let's take a look of this one so
+
+454
+00:18:00,480 --> 00:18:02,000
+forget about the summation let's
+
+455
+00:18:02,000 --> 00:18:05,120
+understand what this compound
+
+456
+00:18:05,120 --> 00:18:07,360
+this product means so it looks like the
+
+457
+00:18:07,360 --> 00:18:10,799
+n people that i want to pick i of them
+
+458
+00:18:10,799 --> 00:18:12,880
+and then from the remaining a minus i
+
+459
+00:18:12,880 --> 00:18:17,039
+people i want to pick j of them
+
+460
+00:18:17,039 --> 00:18:20,000
+okay so so here basically
+
+461
+00:18:20,000 --> 00:18:21,039
+we are
+
+462
+00:18:21,039 --> 00:18:23,760
+looking at something like we are trying
+
+463
+00:18:23,760 --> 00:18:25,600
+to
+
+464
+00:18:25,600 --> 00:18:28,480
+we are trying to
+
+465
+00:18:28,480 --> 00:18:29,360
+to
+
+466
+00:18:29,360 --> 00:18:32,480
+make the members the n members of people
+
+467
+00:18:32,480 --> 00:18:34,720
+into three different groups
+
+468
+00:18:34,720 --> 00:18:36,320
+so i of them
+
+469
+00:18:36,320 --> 00:18:39,280
+in the first group n choose i i of them
+
+470
+00:18:39,280 --> 00:18:41,200
+in the first group
+
+471
+00:18:41,200 --> 00:18:42,400
+right
+
+472
+00:18:42,400 --> 00:18:43,760
+and then
+
+473
+00:18:43,760 --> 00:18:46,320
+from the n minus i of them i choose j so
+
+474
+00:18:46,320 --> 00:18:49,520
+j of them in the second group
+
+475
+00:18:49,520 --> 00:18:53,440
+and finally n minus i minus j of them
+
+476
+00:18:53,440 --> 00:18:55,679
+in the third group
+
+477
+00:18:55,679 --> 00:18:56,799
+okay
+
+478
+00:18:56,799 --> 00:18:59,280
+now here for j is equal to 1 up to n
+
+479
+00:18:59,280 --> 00:19:03,039
+minus i minus 1 it means that
+
+480
+00:19:04,720 --> 00:19:07,679
+i'm selecting
+
+481
+00:19:07,679 --> 00:19:09,280
+the case that
+
+482
+00:19:09,280 --> 00:19:12,240
+j has to be at least one
+
+483
+00:19:12,240 --> 00:19:15,200
+and then j can be at most n minus i
+
+484
+00:19:15,200 --> 00:19:16,480
+minus one
+
+485
+00:19:16,480 --> 00:19:19,440
+so it means what it means that
+
+486
+00:19:19,440 --> 00:19:20,880
+the second group
+
+487
+00:19:20,880 --> 00:19:23,200
+and the third group cannot be
+
+488
+00:19:23,200 --> 00:19:27,679
+empty it must have some people inside
+
+489
+00:19:27,679 --> 00:19:29,120
+is that okay
+
+490
+00:19:29,120 --> 00:19:32,559
+now for here n minus n choose i here
+
+491
+00:19:32,559 --> 00:19:36,080
+when i ranges from 1 to n minus 2 it
+
+492
+00:19:36,080 --> 00:19:38,320
+simply means that the first group has at
+
+493
+00:19:38,320 --> 00:19:40,320
+least one people
+
+494
+00:19:40,320 --> 00:19:43,120
+is that okay n choose i one people
+
+495
+00:19:43,120 --> 00:19:45,360
+and up to n minus two people so that we
+
+496
+00:19:45,360 --> 00:19:47,600
+can have two people left for the second
+
+497
+00:19:47,600 --> 00:19:49,919
+group and the third group
+
+498
+00:19:49,919 --> 00:19:52,799
+so all together what does that mean
+
+499
+00:19:52,799 --> 00:19:55,360
+if you look at this summation sign
+
+500
+00:19:55,360 --> 00:19:57,919
+we sum up all the different cases
+
+501
+00:19:57,919 --> 00:20:00,400
+we are trying to
+
+502
+00:20:00,400 --> 00:20:02,080
+what we are trying to
+
+503
+00:20:02,080 --> 00:20:05,840
+to what to divide the group of n people
+
+504
+00:20:05,840 --> 00:20:07,760
+into three groups
+
+505
+00:20:07,760 --> 00:20:08,640
+okay
+
+506
+00:20:08,640 --> 00:20:09,760
+such that
+
+507
+00:20:09,760 --> 00:20:13,200
+each group is not empty
+
+508
+00:20:13,200 --> 00:20:16,720
+so how many ways of doing so
+
+509
+00:20:17,679 --> 00:20:21,240
+so any idea
+
+510
+00:20:25,679 --> 00:20:27,600
+so first of all if there are
+
+511
+00:20:27,600 --> 00:20:30,159
+no restrictions at all
+
+512
+00:20:30,159 --> 00:20:32,960
+the number of ways to divide n people
+
+513
+00:20:32,960 --> 00:20:36,880
+into three different groups
+
+514
+00:20:36,880 --> 00:20:40,159
+will be 3 to the power n
+
+515
+00:20:40,559 --> 00:20:41,360
+right
+
+516
+00:20:41,360 --> 00:20:44,080
+it is because
+
+517
+00:20:44,159 --> 00:20:47,120
+each particular person can be in group
+
+518
+00:20:47,120 --> 00:20:50,240
+one group two or group three
+
+519
+00:20:50,240 --> 00:20:51,039
+so
+
+520
+00:20:51,039 --> 00:20:53,280
+by rule of product so the first one has
+
+521
+00:20:53,280 --> 00:20:55,039
+three choice the second one has three
+
+522
+00:20:55,039 --> 00:20:56,960
+choice and so on and so forth so all
+
+523
+00:20:56,960 --> 00:20:58,640
+together they are three to the power and
+
+524
+00:20:58,640 --> 00:21:01,600
+different ways of
+
+525
+00:21:01,600 --> 00:21:04,080
+dividing the people into three groups
+
+526
+00:21:04,080 --> 00:21:06,880
+but then we want to avoid
+
+527
+00:21:06,880 --> 00:21:08,320
+people
+
+528
+00:21:08,320 --> 00:21:10,799
+so we want to avoid the case that
+
+529
+00:21:10,799 --> 00:21:12,799
+the first group is empty we want to
+
+530
+00:21:12,799 --> 00:21:14,480
+avoid the case that the second group is
+
+531
+00:21:14,480 --> 00:21:16,480
+empty and then we want to avoid the case
+
+532
+00:21:16,480 --> 00:21:18,720
+that the third group is empty so in that
+
+533
+00:21:18,720 --> 00:21:21,760
+case we need to do a little bit of
+
+534
+00:21:21,760 --> 00:21:24,960
+of what of corrections so 3 to the power
+
+535
+00:21:24,960 --> 00:21:27,440
+n is a little bit more than what we are
+
+536
+00:21:27,440 --> 00:21:29,520
+counting
+
+537
+00:21:29,520 --> 00:21:32,720
+so perhaps we have not done this before
+
+538
+00:21:32,720 --> 00:21:34,240
+but then we can
+
+539
+00:21:34,240 --> 00:21:36,400
+do something like the principle of
+
+540
+00:21:36,400 --> 00:21:38,960
+inclusion and exclusion that
+
+541
+00:21:38,960 --> 00:21:40,880
+i guess you have already studied in your
+
+542
+00:21:40,880 --> 00:21:42,799
+discrete math class
+
+543
+00:21:42,799 --> 00:21:45,360
+so by using the principle of inclusion
+
+544
+00:21:45,360 --> 00:21:47,360
+and exclusion
+
+545
+00:21:47,360 --> 00:21:49,600
+so the answer should not be just 3 to
+
+546
+00:21:49,600 --> 00:21:50,799
+the power n
+
+547
+00:21:50,799 --> 00:21:52,559
+it should be something like 3 to the
+
+548
+00:21:52,559 --> 00:21:56,000
+power n minus the cases where
+
+549
+00:21:56,000 --> 00:21:59,039
+one of the group is empty and then plus
+
+550
+00:21:59,039 --> 00:22:02,159
+the case where two of the groups is
+
+551
+00:22:02,159 --> 00:22:03,520
+are empty
+
+552
+00:22:03,520 --> 00:22:05,760
+and then minus the case where three of
+
+553
+00:22:05,760 --> 00:22:07,919
+the groups are all empty
+
+554
+00:22:07,919 --> 00:22:09,120
+so
+
+555
+00:22:09,120 --> 00:22:11,600
+so in that case this is my guess so you
+
+556
+00:22:11,600 --> 00:22:13,120
+can you can
+
+557
+00:22:13,120 --> 00:22:14,799
+double check whether this is correct at
+
+558
+00:22:14,799 --> 00:22:15,840
+home
+
+559
+00:22:15,840 --> 00:22:18,799
+so this is my solution okay so
+
+560
+00:22:18,799 --> 00:22:21,600
+let me write this
+
+561
+00:22:25,039 --> 00:22:27,120
+so this is my solution
+
+562
+00:22:27,120 --> 00:22:29,520
+my solution will be this one
+
+563
+00:22:29,520 --> 00:22:31,840
+is equal to
+
+564
+00:22:31,840 --> 00:22:33,840
+3 to the power n
+
+565
+00:22:33,840 --> 00:22:36,400
+minus the case that
+
+566
+00:22:36,400 --> 00:22:39,200
+exactly not exactly at least one of the
+
+567
+00:22:39,200 --> 00:22:41,120
+group is empty so let's say group 0 is
+
+568
+00:22:41,120 --> 00:22:44,480
+empty so if group 0 is empty so the the
+
+569
+00:22:44,480 --> 00:22:45,200
+the
+
+570
+00:22:45,200 --> 00:22:47,200
+sorry group 1 so let's say we call the
+
+571
+00:22:47,200 --> 00:22:49,840
+groups group 1 group 2 and group 3.
+
+572
+00:22:49,840 --> 00:22:51,520
+group 1 is empty so how many ways are
+
+573
+00:22:51,520 --> 00:22:54,320
+there there are two to the power m is
+
+574
+00:22:54,320 --> 00:22:56,480
+and then group 2 is empty they're 2 to
+
+575
+00:22:56,480 --> 00:22:59,440
+the power n ways root 3 is empty they're
+
+576
+00:22:59,440 --> 00:23:01,039
+2 to the power n base
+
+577
+00:23:01,039 --> 00:23:02,400
+but then we have
+
+578
+00:23:02,400 --> 00:23:05,200
+over deducted so we need to add back the
+
+579
+00:23:05,200 --> 00:23:06,640
+case where
+
+580
+00:23:06,640 --> 00:23:09,520
+group 1 is group 1 and group 2 is empty
+
+581
+00:23:09,520 --> 00:23:11,760
+so there are 1 to the power n
+
+582
+00:23:11,760 --> 00:23:13,679
+plus 1 to the power n
+
+583
+00:23:13,679 --> 00:23:15,280
+plus 1 to the power n something like
+
+584
+00:23:15,280 --> 00:23:17,520
+this so in the end this should be
+
+585
+00:23:17,520 --> 00:23:20,559
+something like so after simplification
+
+586
+00:23:20,559 --> 00:23:23,360
+this should be 3 to the power n ah maybe
+
+587
+00:23:23,360 --> 00:23:26,480
+let's see if i can use
+
+588
+00:23:28,799 --> 00:23:29,679
+a
+
+589
+00:23:29,679 --> 00:23:32,400
+how can i make it into
+
+590
+00:23:32,400 --> 00:23:35,120
+let me see format
+
+591
+00:23:35,120 --> 00:23:36,880
+one yeah i don't know how to how to
+
+592
+00:23:36,880 --> 00:23:38,480
+change it to the
+
+593
+00:23:38,480 --> 00:23:40,080
+superscript
+
+594
+00:23:40,080 --> 00:23:42,080
+there should be a symbol here let me see
+
+595
+00:23:42,080 --> 00:23:43,600
+let me see
+
+596
+00:23:43,600 --> 00:23:45,840
+and like this okay three to the power n
+
+597
+00:23:45,840 --> 00:23:48,840
+it should be something like this
+
+598
+00:23:48,840 --> 00:23:52,320
+minus 3
+
+599
+00:23:52,640 --> 00:23:54,159
+times
+
+600
+00:23:54,159 --> 00:23:56,400
+2 to the power n
+
+601
+00:23:56,400 --> 00:23:59,200
+and then finally
+
+602
+00:24:03,200 --> 00:24:04,720
+plus three
+
+603
+00:24:04,720 --> 00:24:07,039
+so
+
+604
+00:24:08,640 --> 00:24:11,520
+so this is what i would guess so
+
+605
+00:24:11,520 --> 00:24:13,279
+perhaps you can double check whether
+
+606
+00:24:13,279 --> 00:24:14,720
+this is correct or
+
+607
+00:24:14,720 --> 00:24:18,080
+so this is what i would guess
+
+608
+00:24:18,080 --> 00:24:19,760
+but to
+
+609
+00:24:19,760 --> 00:24:21,120
+yeah
+
+610
+00:24:21,120 --> 00:24:23,279
+but the way that we get this it is
+
+611
+00:24:23,279 --> 00:24:26,400
+because we have do the simplification to
+
+612
+00:24:26,400 --> 00:24:28,799
+do the understanding of what this term
+
+613
+00:24:28,799 --> 00:24:31,120
+could mean and because of this we can
+
+614
+00:24:31,120 --> 00:24:33,440
+have a good interpretation so that we
+
+615
+00:24:33,440 --> 00:24:35,360
+can use our existing knowledge to get
+
+616
+00:24:35,360 --> 00:24:36,559
+the answer
+
+617
+00:24:36,559 --> 00:24:38,559
+yeah i hope you like this so
+
+618
+00:24:38,559 --> 00:24:42,400
+combinatorial proof is very useful
+
+619
+00:24:42,400 --> 00:24:45,120
+because it avoids a lot of
+
+620
+00:24:45,120 --> 00:24:48,880
+difficult and computation so if you want
+
+621
+00:24:48,880 --> 00:24:49,679
+so
+
+622
+00:24:49,679 --> 00:24:51,919
+later we will have formulas for n choose
+
+623
+00:24:51,919 --> 00:24:54,320
+i n minus 1 minus i choose j something
+
+624
+00:24:54,320 --> 00:24:56,640
+like this but this is complicated if you
+
+625
+00:24:56,640 --> 00:24:58,400
+want to simplify them
+
+626
+00:24:58,400 --> 00:25:00,000
+not to mention that we have a lot of
+
+627
+00:25:00,000 --> 00:25:02,240
+summations here that we need to handle
+
+628
+00:25:02,240 --> 00:25:04,559
+but on the other hand if we have a way
+
+629
+00:25:04,559 --> 00:25:06,400
+to do this interpretation then
+
+630
+00:25:06,400 --> 00:25:09,039
+everything could be made easy
+
+631
+00:25:09,039 --> 00:25:11,039
+okay so i think that's all for what i
+
+632
+00:25:11,039 --> 00:25:13,600
+want to show today yeah because this is
+
+633
+00:25:13,600 --> 00:25:15,760
+the first week
+
+634
+00:25:15,760 --> 00:25:18,799
+but i want to mention one thing okay
+
+635
+00:25:18,799 --> 00:25:20,640
+so we are going to
+
+636
+00:25:20,640 --> 00:25:23,120
+assume that you will study the materials
+
+637
+00:25:23,120 --> 00:25:25,440
+of ocw recording and also the lecture
+
+638
+00:25:25,440 --> 00:25:28,240
+notes at your own pace by yourself so
+
+639
+00:25:28,240 --> 00:25:30,559
+roughly speaking
+
+640
+00:25:30,559 --> 00:25:33,840
+we will have three hour lecture normally
+
+641
+00:25:33,840 --> 00:25:36,320
+in a in a class so that's what we are
+
+642
+00:25:36,320 --> 00:25:39,120
+expecting you to to review
+
+643
+00:25:39,120 --> 00:25:42,559
+three hours of ocw recording every week
+
+644
+00:25:42,559 --> 00:25:44,799
+so on thursday
+
+645
+00:25:44,799 --> 00:25:47,120
+we will talk about a quick class summary
+
+646
+00:25:47,120 --> 00:25:49,039
+of the three hour lectures that you have
+
+647
+00:25:49,039 --> 00:25:49,919
+seen
+
+648
+00:25:49,919 --> 00:25:52,480
+and then on tuesday like this we will
+
+649
+00:25:52,480 --> 00:25:54,559
+answer any potential questions that you
+
+650
+00:25:54,559 --> 00:25:56,400
+want to ask us
+
+651
+00:25:56,400 --> 00:25:58,320
+or we will prepare something that is
+
+652
+00:25:58,320 --> 00:26:00,720
+interesting for you so tuesday class
+
+653
+00:26:00,720 --> 00:26:02,880
+normally will be very short
+
+654
+00:26:02,880 --> 00:26:05,120
+and that thursday class normally will be
+
+655
+00:26:05,120 --> 00:26:06,080
+very
+
+656
+00:26:06,080 --> 00:26:09,840
+quick okay but i hope if you find any
+
+657
+00:26:09,840 --> 00:26:11,919
+difficulties in the studying yeah please
+
+658
+00:26:11,919 --> 00:26:14,240
+let us know okay so meanwhile if you
+
+659
+00:26:14,240 --> 00:26:15,200
+have
+
+660
+00:26:15,200 --> 00:26:17,360
+any questions could you please
+
+661
+00:26:17,360 --> 00:26:18,400
+and
+
+662
+00:26:18,400 --> 00:26:21,760
+stand to the discussion board
+
+663
+00:26:21,760 --> 00:26:24,400
+here the chat room here
+
+664
+00:26:24,400 --> 00:26:28,000
+if not then yeah let's meet on thursday
+
+665
+00:26:28,000 --> 00:26:31,679
+and happy moon festival today
+
+666
+00:26:36,000 --> 00:26:39,120
+so because i don't see any questions so
+
+667
+00:26:39,120 --> 00:26:41,360
+let's end the class now okay thanks a
+
+668
+00:26:41,360 --> 00:26:43,520
+lot for coming okay and then and then
+
+669
+00:26:43,520 --> 00:26:46,480
+see you on thursday
+
+670
+00:26:51,200 --> 00:26:53,840
+okay
+

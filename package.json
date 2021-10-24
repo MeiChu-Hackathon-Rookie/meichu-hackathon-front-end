@@ -15,7 +15,11 @@
     "@nuxtjs/axios": "^5.13.6",
     "core-js": "^3.15.1",
     "element-ui": "^2.15.2",
-    "nuxt": "^2.15.7"
+    "file-loader": "^6.2.0",
+    "nuxt": "^2.15.7",
+    "raw-loader": "^4.0.2",
+    "srtjs": "^0.1.0",
+    "str-loader": "^1.0.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
